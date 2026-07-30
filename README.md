@@ -1,5 +1,5 @@
 
-![bammer](my_banner.png)
+![bammer](bammer.png)
 # Sebastián G. de Jesús Romanelli (`sroman-nn`) 👋
 
 I have been programming applications and video games, as well as various services and tools, for 9 years. My development preferences always lean towards **optimization, low-level development**, and, of course, absolute control over each dependency, library, or system as much as possible. 
